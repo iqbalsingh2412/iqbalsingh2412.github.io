@@ -1,0 +1,266 @@
+   body {
+       margin: 0 auto;
+       color: #FFCC00;
+
+   }
+
+   header {
+       text-align: center;
+       width: 100%;
+       float: left;
+   }
+
+   header h1 {
+       font-family: "Sofia";
+       font-size: 50px;
+   }
+
+   h1,
+   h2,
+   h3 {
+       font-family: "Sofia";
+   }
+
+   .navbar-warning {
+       background-color: #FFCC00;
+       border-color: #FFCC00;
+   }
+
+   .mainicons {
+       font-size: 30px;
+       padding-top: 30px;
+   }
+
+   .callinfo {
+       padding-top: 30px;
+       color: black;
+   }
+
+   .bottom-border {
+       border-bottom: 1px solid gray;
+   }
+
+   .right-paddingo {
+       margin-right: 0px;
+       margin-left: 0px;
+       padding: 0;
+       margin-bottom: -23px
+   }
+
+   .logo {
+       width: 220px;
+       margin-top: 20px;
+       margin-bottom: 20px;
+   }
+
+   .right-paddingso {
+       margin-right: 0px;
+       margin-left: 0px;
+       padding: 0;
+   }
+
+   .main-container {
+       width: 100%;
+       float: left;
+   }
+
+   .banner {
+       width: 100%;
+       float: left;
+   }
+
+   .banner img {
+       width: 100%;
+       max-height: 500px;
+   }
+
+   .hundredwidth {
+       text-align: center;
+       margin-top: 30px;
+   }
+
+   .hundredwidth h2 {
+       text-decoration: underline;
+       margin-bottom: 30px;
+   }
+
+   .hundredwidth img {
+       width: 50%;
+   }
+
+   .hundredwidth h4 {
+       font-size: 20px;
+   }
+
+   .backborder {
+       padding-top: 14px;
+   }
+
+   .navbar-nav > li > a {
+       color: aliceblue;
+   }
+
+   .nav > li > a:focus,
+   .nav > li > a:hover {
+       text-decoration: none;
+       background-color: black;
+   }
+
+   .thirdbackground {
+       margin-bottom: 40px;
+       margin-top: 100px;
+       min-height: 400px;
+       background-image: url(http://kayapati.com/demos/gilda/wp-content/uploads/sites/64/2018/04/bg-1.jpg);
+       background-position: center center;
+       background-repeat: no-repeat;
+       background-size: cover;
+   }
+
+   .main-widgets {
+       width: 40%;
+       margin: 0 auto;
+   }
+
+   .gainter {
+       background-color: lightgray;
+       padding-top: 4%;
+       padding-bottom: 4%;
+   }
+
+   .blackers {
+       margin-top: 100px;
+       background-color: black;
+       padding-top: 4%;
+       padding-bottom: 4%;
+       color: white;
+   }
+
+   .gainter h1 {
+       font-size: 35px;
+   }
+
+   .gainter input {
+       margin-bottom: 40px;
+       border: 1px solid;
+       height: 46px;
+
+       color: black;
+       font-size: 22px;
+
+   }
+.about {
+        color: black;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: left;
+    padding-left: 4%;
+}
+
+.about h3{
+    
+    font-size: 35px;
+    font-family: sans-serif;
+}
+   .gainter button {
+       height: 40px;
+       width: 80px;
+       background-color: black;
+       color: white;
+       border: 1px solid white;
+       border-radius: 9px;
+   }
+
+   .thirdbackground p {
+       padding-left: 6%;
+       padding-right: 7%;
+       font-size: 18px;
+       font-weight: 700;
+       color: black;
+       text-align: center;
+   }
+
+   .thirdbackground button {
+       background: black;
+       color: white;
+       padding: 17px;
+       border-radius: 18px;
+       border: 1px solid black;
+   }
+
+   .custombutton {
+       background: black;
+       color: white;
+       padding: 17px;
+       border-radius: 18px;
+       border: 1px solid black;
+   }
+
+   .mainforming {
+       width: 30%;
+       margin: 0 auto;
+
+   }
+
+   .myformss {
+
+       margin-top: 30px;
+       margin-bottom: 30px;
+
+   }
+
+   .bottom-marg {
+       margin-bottom: 74px;
+   }
+
+   footer {
+       margin-top: 0.8px;
+       border-top: 1px solid white;
+       background-color: black;
+       width: 100%;
+       float: left;
+       padding-top: 26px;
+       padding-bottom: 26px;
+       color: white;
+       text-align: center;
+       min-height: 100px;
+   }
+
+   footer ul {
+       list-style: none;
+       line-height: 4;
+
+   }
+
+   .carousel-inner img {
+       width: 100%;
+   }
+
+   .left-border {
+       border-left: 2px solid white;
+       height: 140px;
+   }
+
+   .card {
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+       transition: 0.3s;
+       width: 100%;
+       border-radius: 5px;
+       margin-top: 25px;
+   }
+
+   .card:hover {
+       box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+   }
+
+   .card img {
+       border-radius: 5px 5px 0 0;
+   }
+
+   .mycustom {
+       width: 85%;
+       margin: 0 auto;
+       border: 1px solid #FFCC00;
+       height: 262px;
+       padding: 22px;
+   }
